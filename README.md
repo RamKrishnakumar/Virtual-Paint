@@ -17,3 +17,6 @@ Step4. Set the platform target to x64
              Linker Input 
                 3. Add Linker input: opencv_world450d.lib
                    d for debug without d for release 
+                   
+Project Summary
+In this project I have used OpenCV 
