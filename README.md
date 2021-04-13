@@ -19,7 +19,7 @@ Step4. Set the platform target to x64
                    d for debug without d for release 
                    
 Project Summary
-In this project I have used OpenCV for creating Virtual Painter
-1.Capturing Video using Webcam and grabbing frames
-2. There is color-Picker(excluded from project) available to pick the perticular color HSV values (Hue, Saturation, Value).
-3. After detecting colors in webcam , around that color, creating a bound circle with same color will work as painting on Camera Canvas.
+In this project, I have used OpenCV for creating Virtual Painter 
+1.Capturing Video using Webcam and grabbing frames 
+2. There is a color-Picker(excluded from a project) available to pick the particular colour HSV values (Hue, Saturation, Value). 
+3. After detecting colours in the webcam, around that colour, creating a bound circle with the same colour will work as painting on Camera Canvas.
